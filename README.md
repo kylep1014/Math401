@@ -15,8 +15,8 @@
 > this is a line
 reply
 
-| **syntax** | **description** |
-| .... | ..... |
+| syntax | description |
+| --- | --- |
 |c | d|
 
 
