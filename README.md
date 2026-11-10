@@ -15,6 +15,11 @@
 > this is a line
 reply
 
-| a | b|
-| ....|.....|
+| **syntax** | **description** |
+| .... | ..... |
 |c | d|
+
+
+| title 1 | title 2 |
+| 1 | 2 |
+| 3 | 4 |
